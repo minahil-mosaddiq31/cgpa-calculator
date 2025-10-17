@@ -1,2 +1,2 @@
-import pandas a spd
-import streamlit as st
+ pandas 
+streamlit 
